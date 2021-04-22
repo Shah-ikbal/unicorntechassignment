@@ -1,0 +1,20 @@
+.head {
+  padding: 1rem;
+}
+.head > input {
+  width: 90%;
+  margin-bottom: 1rem;
+}
+.app {
+  display: flex;
+}
+
+.app__car {
+  margin: "8px";
+}
+
+.app__carImage {
+  margin: 8px;
+  border-radius: 8px;
+  border: 1px solid lightgray;
+}

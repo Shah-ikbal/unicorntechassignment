@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": {
+        "first": "John",
+        "last": "Deo"
+      },
+      "password": "john123",
+      "username": "johndeo",
+      "email": "abcmail@abcmail.com"
+    },
+    {
+      "id": 2,
+      "name": {
+        "first": "Janna",
+        "last": "Miller"
+      },
+      "password": "john123",
+      "username": "johndeo",
+      "email": "abcmail@abcmail.com"
+    }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "make": "Maruti",
+      "model": "alto 800",
+      "version": "lxi",
+      "year": "2015",
+      "city": "New Delhi",
+      "location": "Mayur Vihar",
+      "price": "2,00,000",
+      "kms": "80,000",
+      "fuel": "Petrol",
+      "photos": [
+        {
+          "id": 1,
+          "img": "https://ik.imagekit.io/91wheels//assets/b_images/main/models/profile/profile1598553750?tr=w-360,h-240"
+        },
+        {
+          "id": 2,
+          "img": "https://ik.imagekit.io/91wheels//assets/b_images/main/models/profile/profile1598553750?tr=w-360,h-240"
+        },
+        {
+          "id": 3,
+          "img": "https://ik.imagekit.io/91wheels//assets/b_images/main/models/profile/profile1598553750?tr=w-360,h-240"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "make": "Mercedes-Benz ",
+      "model": "GLE Class ",
+      "version": "250d",
+      "year": "2018",
+      "city": "New Delhi",
+      "location": "Lajpat Nagar",
+      "price": "48,00,000",
+      "kms": "26,000",
+      "fuel": "Diesel",
+      "photos": [
+        {
+          "id": 1,
+          "img": "https://ik.imagekit.io/91wheels//assets/b_images/main/models/profile/profile1598553750?tr=w-360,h-240"
+        },
+        {
+          "id": 2,
+          "img": "https://ik.imagekit.io/91wheels//assets/b_images/main/models/profile/profile1598553750?tr=w-360,h-240"
+        },
+        {
+          "id": 3,
+          "img": "https://ik.imagekit.io/91wheels//assets/b_images/main/models/profile/profile1598553750?tr=w-360,h-240"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "make": "Honda",
+      "model": "Jazz",
+      "version": "V",
+      "year": "2017",
+      "city": "Gurgaon",
+      "location": "Sector 14",
+      "price": "5,70,000",
+      "kms": "84,000",
+      "fuel": "CNG",
+      "photos": [
+        {
+          "id": 1,
+          "img": "https://ik.imagekit.io/91wheels//assets/b_images/main/models/profile/profile1598553750?tr=w-360,h-240"
+        },
+        {
+          "id": 2,
+          "img": "https://ik.imagekit.io/91wheels//assets/b_images/main/models/profile/profile1598553750?tr=w-360,h-240"
+        },
+        {
+          "id": 3,
+          "img": "https://ik.imagekit.io/91wheels//assets/b_images/main/models/profile/profile1598553750?tr=w-360,h-240"
+        }
+      ]
+    }
+  ],
+  "Leads": [
+    {
+      "name": "toyota",
+      "mobile": "2",
+      "carid": 2,
+      "cardetail": "Toyota Innova Crysta 2.4 GX MT BSIV",
+      "datetime": "",
+      "id": "z3SjMp1"
+    },
+    {
+      "name": "a",
+      "mobile": "1",
+      "carid": 3,
+      "cardetail": "BMW X5 xDrive 30d Sport",
+      "datetime": "24/06/2020, 17:12:41",
+      "id": "A7W7HeB"
+    }
+  ]
+}
